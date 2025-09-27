@@ -1,20 +1,46 @@
-<<<<<<< HEAD
-# React + Vite
+# Bingtellar Onboarding App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **Bingtellar Onboarding React web application**, built with **React**, **Vite**, and **Tailwind CSS**.  
+It includes features like **dark/light mode**, responsive design, and modern UI components for a smooth onboarding experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive layout for **mobile and desktop**
+- **Dark and light mode** toggle
+- Built with **React + Vite** for fast development and HMR
+- Styled using **Tailwind CSS**
+- Easily extensible for future features
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/isaiah-david/bingtellar-onboarding-app.git
+Install dependencies:
 
-## Expanding the ESLint configuration
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# bingtellar-onboarding-app
->>>>>>> 447f1fe8fcd5b8342a6e1f4c4fcc9fd36f675a73
+
+Run the development server:
+
+npm run dev
+
+
+Open your browser at http://localhost:5173 to see the app.
+
+Deployment
+
+Build the project for production:
+
+npm run build
+
+
+Deploy the contents of the dist folder to your preferred hosting provider.
+
+Contributing
+
+Feel free to fork the repository and submit pull requests.
+Please follow the existing code style and make sure your changes are tested.
+
+Bingtellar Team
+Your go-to platform for a modern onboarding experience.
